@@ -1,0 +1,8 @@
+# OpenAI API Key
+OPENAI_API_KEY=your_openai_api_key_here
+
+# OpenWeatherMap API Key
+OPENWEATHER_API_KEY=your_openweathermap_api_key_here
+
+# Alpha Vantage API Key (for stock prices)
+ALPHA_VANTAGE_API_KEY=your_alpha_vantage_api_key_here
